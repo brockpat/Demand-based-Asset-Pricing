@@ -1,3 +1,5 @@
+This project is the first chapter of my PhD thesis in quantitative finance.
+
 # Demand-based-Asset-Pricing
 
 This research rigorously evaluates the **Demand-Based Asset Pricing (DBAP)** framework introduced by Koijen & Yogo (2019). While traditional asset pricing (e.g., Fama-French) focuses on risk premia and expected returns, DBAP treats prices as the outcome of **market-clearing** (more buyers than sellers implies that asset prices rise)
